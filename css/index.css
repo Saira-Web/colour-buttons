@@ -1,0 +1,21 @@
+button {
+    margin: 1em;
+    padding: 3em;
+    font-size: 2em;
+    border: 0.1em solid black;
+}
+
+#red-button {
+    background-color: red;
+
+}
+
+#green-button {
+    background-color: green;
+
+}
+
+#blue-button {
+    background-color: blue;
+
+}
